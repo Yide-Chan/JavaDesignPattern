@@ -2,7 +2,7 @@ package SingletonPattern;
 /**
  * @className EagerInitialization2
  * @description  静态代码块方式
- * @author 陈乙德
+ * @author chenyide
  * @date 2024/5/16 15:24
  * @version v1.0
 **/

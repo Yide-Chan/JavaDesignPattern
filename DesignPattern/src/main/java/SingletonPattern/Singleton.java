@@ -2,7 +2,7 @@ package SingletonPattern;
 /**
  * @className Singleton
  * @description  
- * @author 陈乙德
+ * @author chenyide
  * @date 2024/5/16 15:45
  * @version v1.0
 **/

@@ -2,7 +2,7 @@ package SingletonPattern;
 /**
  * @className LazyInitialization2
  * @description  线程安全的
- * @author 陈乙德
+ * @author chenyide
  * @date 2024/5/16 15:31
  * @version v1.0
 **/

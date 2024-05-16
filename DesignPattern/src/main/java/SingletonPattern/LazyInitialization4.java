@@ -5,7 +5,7 @@ package SingletonPattern;
  * 第一次加载Singleton类时不会去初始化INSTANCE，只有第一次调用getInstance，虚拟机加载SingletonHolder
  * 并初始化INSTANCE，这样不仅能确保线程安全，也能保证 Singleton 类的唯一性。
  *
- * @author 陈乙德
+ * @author chenyide
  * @date 2024/5/16 15:41
  * @version v1.0
 **/

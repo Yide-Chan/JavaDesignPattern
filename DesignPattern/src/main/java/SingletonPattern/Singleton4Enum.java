@@ -7,7 +7,7 @@ package SingletonPattern;
  *
  *   枚举方式（枚举方式属于饿汉式方式）
  *
- * @author 陈乙德
+ * @author chenyide
  * @date 2024/5/16 15:42
  * @version v1.0
 **/

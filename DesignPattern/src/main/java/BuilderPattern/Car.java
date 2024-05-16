@@ -1,7 +1,7 @@
 package BuilderPattern;
 
 /**
- * @author 陈乙德
+ * @author chenyide
  * 汽车类
  */
 public class Car {
